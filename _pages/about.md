@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Peiyang Li Homepage"
+title: "Peiyang Li (李沛洋)"
 author_profile: true
 redirect_from: 
   - /about/

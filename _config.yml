@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Peiyang Li / 李沛洋"
+title                    : "Peiyang Li"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Peiyang Li"
 description              : &description "personal description"
 url                      : https://peiyangl.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Tsinghua Security"
   # location         : "Earth"
-  employer         : "Tsinghua University"
+  employer         : "Institute for Network Sciences and Cyberspace, Tsinghua University"
   uri              : # URL
   email            : "li-py23@mails.tsinghua.edu.cn" 
 
@@ -116,7 +116,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
