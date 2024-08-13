@@ -24,11 +24,11 @@ author:
   avatar           : "my.png"
   name             : "Peiyang Li"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate in Tsinghua Security"
+  bio              : "Ph.D. Candidate, Tsinghua Security"
   # location         : "Earth"
-  employer         : "Institute for Network Sciences and Cyberspace, Tsinghua University"
+  # employer         : "Institute for Network Sciences and Cyberspace, Tsinghua University"
   uri              : # URL
-  email            : "li-py23@mails.tsinghua.edu.cn" 
+  # email            : "li-py23@mails.tsinghua.edu.cn" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
