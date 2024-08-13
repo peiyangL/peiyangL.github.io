@@ -30,27 +30,16 @@ I am currently a Ph.D. candidate with the [Institute for Network Sciences and Cy
 
 - Best Paper Award, IEEE/ACM IWQoS. 2024 
 - Excellent Comprehensive Scholarship (THU). 2023 
-- Excellent Comprehensive Scholarship (THU). 2022 
 - Best Paper Award, International Doctoral Forum (CUHK & Microsoft). 2023 
+- Excellent Comprehensive Scholarship (THU). 2022 
 - Outstanding Graduate (NWPU). 2020 
 - China National Scholarship (Ministry of Education of China). 2017
 
 # Academic Services
 
-### **Artifact Evaluation Committee Member**
+**Artifact Evaluation Committee Member**: Security 2024, ACSAC 2022
 
-- **[Security]** USENIX Security Symposium, 2024.
-- **[ACSAC]** Annual Computer Security Applications Conference, 2022.
+**Conference (Sub) Reviewer**: NDSS 2022 2023 2024 2025, Usenix Security 2022 2023 2024, S&P 2023 2025, CCS 2023, GLOBECOM 2022, ICICS 2023, ACSAC 2022 2024, WWW 2023, ASIACCS 2022 2023 2024
 
-### Conference (Sub) Reviewer
+**Journal Reviewer**: TDSC 2021 2022 2023
 
-- **[NDSS]** Annual Computer Security Applications Conference, 2021.
-- **[CCS]** ACM Conference on Computer and Communications Security, 2022, 2023.
-
-### Journal Reviewer
-
-- **[TDSC] **IEEE Transactions on Dependable and Secure Computing
-
-# Hobby
-
-I like swimming, badminton, and online games (League of Legends and Teamfight Tactics)
