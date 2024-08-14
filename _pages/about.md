@@ -9,6 +9,8 @@ redirect_from:
 
 I am currently a Ph.D. candidate with the [Institute for Network Sciences and Cyberspace](https://www.insc.tsinghua.edu.cn/), Tsinghua University, advised by [Prof. Qi Li](https://sites.google.com/site/qili2012/). My research focuses on AI for cyber security, web attack detection, and trustworthy AI.
 
+Email: li-py23@mails.tsinghua.edu.cn
+
 # Publications & Preprints
 
 [1] **<u>Peiyang Li</u>**, Ye Wang, Qi Li, Zhuotao Liu, Ke Xu, Ju Ren, Zhiying Liu and Ruilin Lin. Learning from Limited Heterogeneous Training Data: MetaLearning for Unsupervised Zero-Day Web Attack Detection across Web Domains. *In Proceedings of the ACM CCS, 2023.*
