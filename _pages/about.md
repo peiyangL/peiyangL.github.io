@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a Ph.D. candidate with the [Institute for Network Sciences and Cyberspace](https://www.insc.tsinghua.edu.cn/), Tsinghua University, advised by [Prof. Qi Li](https://sites.google.com/site/qili2012/). My research focuses on AI for cyber security, web attack detection, and trustworthy AI.
 
-Email: li-py23@mails.tsinghua.edu.cn
+Email: li-py23[at]mails[dot]tsinghua[dot]edu[dot]cn
 
 # Publications & Preprints
 
