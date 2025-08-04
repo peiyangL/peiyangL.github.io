@@ -13,6 +13,8 @@ Email: peiyangli.20[at]gmail[dot]com
 
 # News
 
+- One paper was accepted by NDSS 2026!
+- One paper was accepted by ACM CCS 2025!
 - I graduated from Tsinghua University!
 
 # Publications & Preprints
